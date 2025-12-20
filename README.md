@@ -1,25 +1,82 @@
-# Data Structures and Algorithms (DSA) in C++
+# 📘 Data Structures and Algorithms in C++
 
-This repository is for the students of book [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) and online course available on CourseGalaxy. It contains the source code of all the programs.
+This repository contains my implementations and practice of **Data Structures and Algorithms (DSA)** using **C++ (C++20 standard)**.  
+The purpose of this repository is to build strong problem-solving skills and prepare for **technical interviews, internships, and competitive programming**.
 
-[![comprehensive-data-structures-algorithms-cpp](https://github.com/user-attachments/assets/19b4ff22-198c-4c99-8cd4-05c3dc4f7766)](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
+---
 
-### About the DSA Masterclass Courses
- * Thoroughly detailed courses with complete working programs
- * Contains lots of animations to help you visualize the concepts
- * Includes various Data Structures and Algorithms 
- * Builds a solid foundation in Data Structures and Algorithms
- * Prepares you for coding interviews 
- * Lifetime Access
+## 🛠 Language & Tools
+- **Language:** C++ (C++20)
+- **Compiler:** GCC / Clang
+- **Platforms:** LeetCode, GeeksforGeeks, Coding Ninjas
+- **Version Control:** Git & GitHub
 
-### DSA Masterclass Courses on [CourseGalaxy](http://coursegalaxy.com/)
+---
 
-[![data-structures-algorithms-cpp](https://github.com/user-attachments/assets/df53e2cd-9505-4a60-abfe-ef4cf8d47589)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50)
-[![data-structures-algorithms-java](https://user-images.githubusercontent.com/96913690/200234744-14a5ed97-085f-44f3-9298-979c2053c580.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-c](https://user-images.githubusercontent.com/96913690/200234592-25d33957-0e9e-4cc0-b324-2a73325aca85.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
-[![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
+## 📂 Repository Structure
+DSA-Cpp/
+│── Array/
+│── Functions/
+│── Searching-and-Hashing/
+│── Sorting-Algorithms/
+│── LinkedLists/
+│── Stacks-and-Queues/
+│── Recursion/
+│── Trees/
+│── Graphs/
+│── Dynamic-Programming/
+│── README.md
 
-## Copyright
-© Copyright Suresh Kumar Srivastava : All rights reserved.
-Not to be used for commercial purposes.
+yaml
+Copy code
+
+---
+
+## 📌 Topics Covered
+- Arrays
+- Functions
+- Searching and Hashing
+- Sorting Algorithms
+- Linked Lists
+- Stacks and Queues
+- Recursion
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+## 🧠 Problem Sources
+- LeetCode  
+- GeeksforGeeks  
+- Coding Ninjas  
+
+Each solution typically includes:
+- Problem description (as comments in code)
+- Optimized approach
+- Time and Space Complexity
+
+---
+
+## 🚀 How to Run
+```bash
+g++ filename.cpp
+./a.out
+📈 Objectives
+Strengthen DSA fundamentals
+
+Improve logical and algorithmic thinking
+
+Write clean and optimized C++ code
+
+Prepare for software and data-related roles
+
+🔗 Coding Profiles
+LeetCode: https://leetcode.com/your_username/
+
+📬 Contact
+GitHub: https://github.com/shivam9621
+
+Email: shivamxz18@gmail.com
+
+Copy code
